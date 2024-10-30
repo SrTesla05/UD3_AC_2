@@ -9,5 +9,6 @@
     <?php
     echo "Hola Mundoo";
     ?>
+    <img src="imagen_prueba.jpg" alt="Prueba_Imagen">
 </body>
 </html>
